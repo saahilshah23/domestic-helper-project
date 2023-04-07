@@ -1,0 +1,6 @@
+Please note that these 'blueprints' for the website 'Domestic Helper' may note completely resemble the final product, some features may be added or removed.
+Colour has not really been added, instead, focus on the functionality from the product backlog and see how it has been implemented in the design.
+I will add color as i go along as this will be easier to change.
+
+Thanks,
+Sam
